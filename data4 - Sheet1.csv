@@ -1,0 +1,102 @@
+id,price,manufacturingyear,company,model,condition,cylinders,fuel,dist_reading,title_status,transmission,VIN,drive,size,type,ptcolor,county,state,posting_date
+7315070694,29999,2016,ford,transit xlt,excellent,6 cylinders,gas,40717,clean,automatic,1FBZX2ZM9GKB11878,rwd,full-size,mini-van,white,,ak,2021-04-30T14:39:12-0800
+7315067602,15000,1972,chevrolet,el camino,good,8 cylinders,gas,80000,clean,automatic,1080J2L576491,rwd,full-size,truck,white,,ak,2021-04-30T14:32:21-0800
+7315064330,29995,1980,pontiac,trans am,,,gas,23179,clean,automatic,2W87WAL148762,,,other,black,,ak,2021-04-30T14:25:31-0800
+7315061705,21500,2015,acura,rdx,like new,6 cylinders,gas,30800,clean,automatic,,4wd,,SUV,grey,,ak,2021-04-30T14:19:55-0800
+7315058212,64000,2021,ford,f250 super duty,like new,8 cylinders,diesel,5000,clean,automatic,,4wd,full-size,truck,grey,,ak,2021-04-30T14:12:45-0800
+7315058185,3900,2002,ford,explorer,,,gas,192000,clean,automatic,,,,,,,ak,2021-04-30T14:12:41-0800
+7315057573,700,1998,,ISUZU AMIGO,good,4 cylinders,gas,123,missing,manual,,4wd,,,,,ak,2021-04-30T14:11:25-0800
+7315057157,30995,2014,chevrolet,silverado,,,other,95321,clean,automatic,3GCUKSEC8EG284135,4wd,,pickup,,,ak,2021-04-30T14:10:38-0800
+7315053636,0,2008,ford,f450 super duty crew cab,,8 cylinders,diesel,123249,clean,automatic,1FTXW43R28ED03018,4wd,,pickup,white,,ak,2021-04-30T14:03:36-0800
+7315049444,29995,2012,ford,f-550,,,diesel,118754,clean,,1FD0W5HT4CEA82778,4wd,,other,white,,ak,2021-04-30T13:55:32-0800
+7315045122,1200,2003,ford,explorer,fair,,gas,200000,clean,automatic,,4wd,,,,,ak,2021-04-30T13:46:53-0800
+7315041989,23995,2013,chevrolet,silverado,,,gas,98238,clean,automatic,1GC1KVCG2DF148822,4wd,,pickup,white,,ak,2021-04-30T13:40:37-0800
+7315034698,23995,2009,chevrolet,silverado,,,diesel,87648,clean,automatic,1GCHK43679F101132,4wd,,pickup,white,,ak,2021-04-30T13:26:21-0800
+7315029189,15999,2018,hyundai,,excellent,4 cylinders,gas,58600,rebuilt,automatic,KM8K5CA58JU090249,4wd,sub-compact,hatchback,blue,,ak,2021-04-30T13:15:39-0800
+7315026440,18995,2011,ford,transit connect,,,other,125722,clean,,1FDSS3BL4BDB15327,,,other,white,,ak,2021-04-30T13:10:31-0800
+7315024759,3500,2007,chrysler,pacifica touring,,,gas,116000,clean,automatic,,,,,,,ak,2021-04-30T13:07:10-0800
+7315024257,22988,2017,chevrolet,malibu premier automatic,,,gas,29178,clean,automatic,1G1ZH5SX4HF287982,fwd,,sedan,black,,ak,2021-04-30T13:06:11-0800
+7315023402,12991,2016,kia,forte,,4 cylinders,gas,55529,clean,automatic,KNAFK4A63G5614632,fwd,,sedan,black,,ak,2021-04-30T13:04:39-0800
+7315023093,23999,2008,toyota,tundra double cab,,8 cylinders,gas,125895,clean,automatic,5TFBV54108X055125,4wd,,pickup,silver,,ak,2021-04-30T13:04:05-0800
+7315023061,18499,2008,gmc,sierra 1500 crew cab,,8 cylinders,gas,149244,clean,automatic,2GTFK13Y181234868,4wd,,pickup,silver,,ak,2021-04-30T13:04:01-0800
+7315022958,20999,2008,chevrolet,silverado 1500,,8 cylinders,gas,172956,clean,automatic,2GCEK13J181330188,4wd,,pickup,black,,ak,2021-04-30T13:03:50-0800
+7315022919,13995,2014,mini,paceman,,4 cylinders,gas,88215,clean,manual,WMWSS7C58EWN70493,,,other,red,,ak,2021-04-30T13:03:45-0800
+7315022866,17995,2013,ram,1500 quad cab,,8 cylinders,gas,126959,clean,automatic,1C6RR7FT3DS569000,4wd,,pickup,red,,ak,2021-04-30T13:03:39-0800
+7315022775,10995,2013,chevrolet,equinox,,4 cylinders,gas,107056,clean,automatic,2GNALPEK6D6352972,fwd,,SUV,custom,,ak,2021-04-30T13:03:29-0800
+7315022686,13995,2014,cadillac,ats,,6 cylinders,other,110697,clean,automatic,1G6AH5S30E0122885,,,sedan,custom,,ak,2021-04-30T13:03:20-0800
+7315022630,6995,2001,audi,tt,,4 cylinders,gas,116000,clean,manual,TRUWT28N811004179,,,other,custom,,ak,2021-04-30T13:03:14-0800
+7315018400,24995,2013,chevrolet,silverado,,,other,117794,clean,automatic,1GCRKSE72DZ326838,4wd,,pickup,black,,ak,2021-04-30T12:55:49-0800
+7315009986,34995,2018,bmw,430i,,,gas,21297,clean,automatic,WBA4J3C5XJBG90837,,compact,sedan,black,,ak,2021-04-30T12:40:39-0800
+7315008484,26995,2014,dodge,durango limited awd,excellent,6 cylinders,gas,49479,clean,automatic,1C4RDJDGXEC977242,4wd,,SUV,grey,,ak,2021-04-30T12:38:01-0800
+7314998866,18995,2018,jeep,renegade,,,gas,30701,clean,automatic,ZACCJBAB1JPH28296,,,SUV,red,,ak,2021-04-30T12:20:56-0800
+7314992435,66840,2019,ram,1500,,,gas,,clean,automatic,1C6SRFPT7KN512563,4wd,,pickup,,,ak,2021-04-30T12:09:47-0800
+7314990041,21995,2014,ford,f-150,,,other,186751,clean,automatic,1FTFW1EF4EKE24191,4wd,,pickup,white,,ak,2021-04-30T12:05:27-0800
+7314987898,28395,2019,volkswagen,jetta,,,gas,,clean,automatic,3VW6T7BU1KM221405,,compact,sedan,,,ak,2021-04-30T12:01:53-0800
+7314987607,15599,2014,nissan,pathfinder,,,gas,,clean,automatic,5N1AR2MM4EC701869,4wd,,SUV,black,,ak,2021-04-30T12:01:23-0800
+7314983389,6995,1995,ram,,,,gas,,clean,automatic,1B7KF26W2SS103961,4wd,,pickup,green,,ak,2021-04-30T11:53:34-0800
+7314983220,52995,2018,dodge,charger,,,gas,,clean,automatic,2C3CDXGJ8JH247941,rwd,full-size,sedan,green,,ak,2021-04-30T11:53:17-0800
+7314983082,17500,2013,honda,odyssey,,,gas,,clean,automatic,5FNRL5H90DB084567,fwd,,mini-van,white,,ak,2021-04-30T11:52:58-0800
+7314979030,9995,2013,honda,civic,,,gas,122295,clean,automatic,2HGFB2F56DH511718,,compact,sedan,black,,ak,2021-04-30T11:45:38-0800
+7314971818,15991,2015,kia,soul,,4 cylinders,gas,2447,clean,automatic,KNDJN2A25F7231851,fwd,,wagon,white,,ak,2021-04-30T11:32:55-0800
+7314971635,55194,2019,ram,all-new 1500,,8 cylinders,gas,6804,clean,automatic,1C6SRFKTXKN829857,4wd,,truck,,,ak,2021-04-30T11:32:35-0800
+7314971180,21194,2018,nissan,altima,,4 cylinders,gas,39320,clean,automatic,1N4AL3AP1JC111350,fwd,,sedan,grey,,ak,2021-04-30T11:31:47-0800
+7314970646,17194,2017,nissan,sentra,,4 cylinders,gas,41200,clean,other,3N1CB7AP0HY294340,fwd,,sedan,,,ak,2021-04-30T11:30:58-0800
+7314969892,29995,2016,gmc,yukon,,,other,130287,clean,automatic,1GKS1AKC1GR192915,rwd,,SUV,black,,ak,2021-04-30T11:29:43-0800
+7314954120,24999,2005,,Hummer H2,,8 cylinders,gas,106788,clean,automatic,5GRGN23U95H130117,,,SUV,white,,ak,2021-04-30T11:03:28-0800
+7314950383,29995,2017,chevrolet,silverado,,,gas,110366,clean,automatic,3GCUKREC2HG225885,4wd,,pickup,silver,,ak,2021-04-30T10:57:44-0800
+7314943164,11995,2004,volkswagen,touareg,,,gas,78784,clean,automatic,WVGEM77L64D061916,,,SUV,blue,,ak,2021-04-30T10:46:00-0800
+7314938482,6000,2008,toyota,sienna,good,,gas,150000,clean,automatic,,,,,,,ak,2021-04-30T10:38:20-0800
+7314918956,26900,2020,jeep,cherokee,,4 cylinders,gas,7277,clean,other,1C4PJMCB6LD627833,4wd,,SUV,red,,ak,2021-04-30T10:05:58-0800
+7314918376,21999,2015,volvo,xc60,,6 cylinders,gas,95856,clean,automatic,YV4902RDXF2582787,,,SUV,white,,ak,2021-04-30T10:05:01-0800
+7314908413,9999,2012,nissan,altima 3.5 sr sedan,good,,gas,98888,clean,automatic,,fwd,mid-size,sedan,grey,,ak,2021-04-30T09:48:49-0800
+7314901283,17900,2019,kia,optima,,4 cylinders,gas,53965,clean,other,5XXGT4L3XKG277811,fwd,,sedan,grey,,ak,2021-04-30T09:37:04-0800
+7314901135,21384,2020,chevrolet,trax,,4 cylinders,gas,3671,clean,automatic,3GNCJNSB4LL139780,4wd,,SUV,grey,,ak,2021-04-30T09:36:48-0800
+7314900567,11991,2018,ford,fiesta,,4 cylinders,gas,45368,clean,automatic,3FADP4AJ1JM112399,fwd,,sedan,silver,,ak,2021-04-30T09:35:53-0800
+7314882184,29900,2018,bmw,x1 xdrive28i,,4 cylinders,gas,31723,clean,other,WBXHT3C31J5K22894,4wd,,SUV,black,,ak,2021-04-30T09:05:44-0800
+7314882067,32988,2012,chevrolet,avalanche,,8 cylinders,gas,35889,clean,automatic,3GNTKFE73CG184972,4wd,,truck,blue,,ak,2021-04-30T09:05:33-0800
+7314881911,16499,2014,mini,countryman,,4 cylinders,gas,71049,clean,other,WMWZC5C59EWP35984,4wd,,sedan,white,,ak,2021-04-30T09:05:18-0800
+7314880407,18999,2020,kia,soul,,4 cylinders,gas,10035,clean,automatic,KNDJ23AU8L7097462,fwd,,wagon,grey,,ak,2021-04-30T09:02:54-0800
+7314865212,10499,2015,hyundai,veloster,,4 cylinders,gas,104839,clean,automatic,KMHTC6AD5FU241557,fwd,,coupe,blue,,ak,2021-04-30T08:38:25-0800
+7314865000,25952,2019,hyundai,tucson,,4 cylinders,gas,12063,clean,other,KM8J3CAL2KU984460,4wd,,SUV,blue,,ak,2021-04-30T08:38:03-0800
+7314864951,30499,2017,bmw,430i,,4 cylinders,gas,32214,clean,other,WBA4F7C35HG787932,rwd,,sedan,blue,,ak,2021-04-30T08:37:58-0800
+7314864865,34943,2019,ford,ranger,,4 cylinders,gas,17559,clean,other,1FTER4FH2KLA35205,4wd,,truck,white,,ak,2021-04-30T08:37:48-0800
+7314864344,10500,2013,kia,rio,,4 cylinders,gas,66000,clean,automatic,KNADM5A33D6167867,fwd,,sedan,white,,ak,2021-04-30T08:36:59-0800
+7314845455,17954,2017,mazda,mazda6,,4 cylinders,gas,27568,clean,automatic,JM1GL1U56H1153117,fwd,,sedan,black,,ak,2021-04-30T08:07:10-0800
+7314845275,31499,2019,mini,cooper countryman,,4 cylinders,gas,8387,clean,other,WMZYT5C56K3G90257,4wd,,sedan,blue,,ak,2021-04-30T08:06:53-0800
+7314842940,27995,2020,chevrolet,malibu,,4 cylinders,gas,8371,clean,automatic,1G1ZG5ST3LF120666,fwd,,sedan,black,,ak,2021-04-30T08:03:24-0800
+7314842736,18995,2020,chevrolet,spark,,4 cylinders,gas,14517,clean,automatic,KL8CB6SA6LC403878,fwd,,sedan,silver,,ak,2021-04-30T08:03:08-0800
+7314842569,22995,2017,chevrolet,bolt ev,,,electric,42331,clean,automatic,1G1FX6S01H4126516,fwd,,sedan,silver,,ak,2021-04-30T08:02:54-0800
+7314842398,34995,2019,nissan,frontier,,6 cylinders,gas,24551,clean,automatic,1N6AD0EVXKN777060,4wd,,truck,white,,ak,2021-04-30T08:02:40-0800
+7314842259,35995,2019,volkswagen,golf alltrack,,4 cylinders,gas,2233,clean,other,3VWM17AUXKM516646,4wd,,wagon,grey,,ak,2021-04-30T08:02:24-0800
+7314842122,21995,2012,ford,expedition el,,8 cylinders,gas,117013,clean,automatic,1FMJK1J59CEF34048,4wd,,SUV,blue,,ak,2021-04-30T08:02:13-0800
+7314842038,29992,2018,jeep,cherokee,,6 cylinders,gas,36759,clean,other,1C4PJMJX1JD578696,4wd,,SUV,brown,,ak,2021-04-30T08:02:04-0800
+7314841832,33933,2019,ford,explorer,,6 cylinders,gas,48915,clean,other,1FM5K8F85KGA91591,4wd,,SUV,,,ak,2021-04-30T08:01:42-0800
+7314836403,21500,2005,chevrolet,ssr,excellent,8 cylinders,gas,45000,clean,automatic,,rwd,,,yellow,,ak,2021-04-30T07:52:53-0800
+7314808907,9900,2014,ford,focus se automatic,,,gas,77096,clean,automatic,1FADP3F2XEL279573,fwd,,sedan,black,,ak,2021-04-30T07:05:37-0800
+7314808841,17988,2018,chevrolet,cruze lt automatic,,,gas,17003,clean,automatic,1G1BE5SM2J7213993,fwd,,sedan,red,,ak,2021-04-30T07:05:31-0800
+7314745427,19950,2011,ford,f-350 super duty,excellent,8 cylinders,gas,145171,clean,automatic,,4wd,full-size,truck,,,ak,2021-04-30T04:58:44-0800
+7314702653,13000,2011,honda,civic si sedan,excellent,4 cylinders,gas,80000,clean,manual,,fwd,compact,sedan,red,,ak,2021-04-30T00:05:59-0800
+7314678377,12300,2011,nissan,xterra,excellent,6 cylinders,gas,92317,rebuilt,automatic,5N1AN0NW7BC506375,4wd,full-size,SUV,black,,ak,2021-04-29T20:16:08-0800
+7314675634,9595,2013,ford,escape,,4 cylinders,gas,161527,clean,automatic,1FMCU9HX0DUA24509,4wd,,SUV,silver,,ak,2021-04-29T20:01:52-0800
+7314675611,19995,2016,toyota,camry,,4 cylinders,gas,45894,clean,automatic,4T1BF1FK4GU560222,fwd,,sedan,custom,,ak,2021-04-29T20:01:45-0800
+7314675590,17995,2007,ram,2500 mega cab,,8 cylinders,gas,133733,clean,automatic,3D7KS29D37G792001,4wd,,pickup,custom,,ak,2021-04-29T20:01:37-0800
+7314675550,19995,1999,,Western Star Conventional,,6 cylinders,,123456,clean,manual,2WKEDDCJ5XK959166,rwd,,other,custom,,ak,2021-04-29T20:01:30-0800
+7314673873,20900,2019,volkswagen,golf,excellent,4 cylinders,gas,28919,clean,automatic,3VW117AU2KM509886,4wd,full-size,wagon,blue,,ak,2021-04-29T19:52:56-0800
+7314672940,41500,2020,jeep,wrangler unlimited,excellent,4 cylinders,gas,9864,clean,automatic,1C4HJXEN7LW280790,4wd,full-size,SUV,red,,ak,2021-04-29T19:48:37-0800
+7314672057,11500,2013,ford,escape,excellent,4 cylinders,gas,133208,clean,automatic,1FMCU9GX1DUB85209,4wd,full-size,SUV,white,,ak,2021-04-29T19:44:21-0800
+7314670066,28500,2015,lexus,rx 400h,good,6 cylinders,hybrid,70000,clean,automatic,,4wd,mid-size,SUV,black,,ak,2021-04-29T19:35:04-0800
+7314665745,10495,2005,ford,f150,,,gas,121000,clean,automatic,,4wd,,,,,ak,2021-04-29T19:16:29-0800
+7314662865,22900,2020,dodge,grand caravan,,6 cylinders,gas,50365,clean,other,2C4RDGCG6LR154364,fwd,,van,,,ak,2021-04-29T19:04:20-0800
+7314654862,31900,2019,kia,sportage,,4 cylinders,gas,23643,clean,other,KNDPRCA62K7506982,4wd,,SUV,silver,,ak,2021-04-29T18:31:37-0800
+7314647232,38977,2017,gmc,sierra 1500,,8 cylinders,gas,100696,clean,automatic,3GTU2NEC5HG227803,4wd,,truck,black,,ak,2021-04-29T18:03:45-0800
+7314647162,24999,2017,bmw,320i xdrive,,4 cylinders,gas,33446,clean,other,WBA8E5G57HNU41896,4wd,,sedan,grey,,ak,2021-04-29T18:03:31-0800
+7314646496,32900,2020,ford,edge,,4 cylinders,gas,12226,clean,automatic,2FMPK4K98LBA56875,,,SUV,blue,,ak,2021-04-29T18:01:16-0800
+7314638187,29999,2018,nissan,pathfinder,,6 cylinders,gas,32047,clean,automatic,5N1DR2MN6JC620081,fwd,,SUV,red,,ak,2021-04-29T17:31:39-0800
+7314638150,23988,2017,chevrolet,malibu,,4 cylinders,gas,25039,clean,automatic,1G1ZH5SX0HF271780,fwd,,sedan,blue,,ak,2021-04-29T17:31:33-0800
+7314635570,65995,2019,dodge,durango srt awd,excellent,8 cylinders,gas,9744,clean,automatic,1C4SDJGJ6KC845972,4wd,,SUV,blue,,ak,2021-04-29T17:22:58-0800
+7314633859,59995,2018,porsche,macan s awd,excellent,6 cylinders,gas,23985,clean,automatic,WP1AB2A5XJLB30855,4wd,,SUV,grey,,ak,2021-04-29T17:17:35-0800
+7314632846,54995,2021,volvo,xc60 inscription awd,excellent,4 cylinders,gas,3240,clean,automatic,YV4102RL9M1727339,4wd,,SUV,grey,,ak,2021-04-29T17:14:19-0800
+7314631045,24995,2019,buick,encore preferrred awd,excellent,4 cylinders,gas,10373,clean,automatic,KL4CJESB7KB924992,4wd,,SUV,grey,,ak,2021-04-29T17:09:06-0800
+7314630090,19995,2014,lincoln,mkz awd,excellent,4 cylinders,gas,54162,clean,automatic,3LN6L2J92ER800733,4wd,,sedan,silver,,ak,2021-04-29T17:06:15-0800
+7314630109,6900,1995,ford,bronco,,8 cylinders,gas,186766,clean,automatic,1FMEU15N5SLC13124,4wd,,SUV,,,ak,2021-04-29T17:06:17-0800
+7314629925,16900,2017,dodge,journey,,4 cylinders,gas,51207,clean,automatic,3C4PDCBB4HT586543,fwd,,SUV,red,,ak,2021-04-29T17:05:51-0800
